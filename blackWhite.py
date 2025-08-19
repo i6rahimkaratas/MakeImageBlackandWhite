@@ -3,10 +3,7 @@ from tkinter import filedialog
 from PIL import Image
 
 def resmi_siyah_beyaz_yap():
-    """
-    Kullanıcıdan bir resim seçmesini ister, bu resmi siyah beyaza (gri tonlamalı)
-    dönüştürür ve yine kullanıcının seçtiği bir konuma kaydeder.
-    """
+    
     
     root = tk.Tk()
     root.withdraw()
